@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luciana Rosa and I'm a QA, from SP</h2>
+<h2 align="left">Hi 👋! My name is Luciana Rosa and I'm a Testador de Garantia de Qualidade, from SP</h2>
 
 ###
 
