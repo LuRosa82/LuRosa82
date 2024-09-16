@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luciana Rosa and I'm a QA end Programadora backEnd, from SP</h2>
+<h2 align="left">Hi 👋! My name is Luciana Rosa and I'm a QA e Programadora backEnd, from SP</h2>
 
 ###
 
