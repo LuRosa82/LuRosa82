@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Luciana+Rosa!;" />
 </h1>
-<h3>Desenvolvedor Back-End </h3>
+<h3>Desenvolvedora Back-End </h3>
 
 ![snake gif](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake.gif)
 
