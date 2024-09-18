@@ -5,11 +5,11 @@
 
 ![snake gif](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake.gif)
 
-<p> Me formando em Analise e Desenvolvimento de Sistemas.</p>
+<p>😺 Me formando em Analise e Desenvolvimento de Sistemas.</p>
 
-<p>Atualmente estou focando meus estudos em Java </p>
+<p>🐦 Atualmente estou focando meus estudos em Java </p>
 
-<p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
+<p>🦉 Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-rosa-49527658/)
