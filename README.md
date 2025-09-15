@@ -5,9 +5,9 @@
 
 ![snake gif](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake.gif)
 
-<p>😺 Me formando em Analise e Desenvolvimento de Sistemas.</p>
+<p>😺 Estudando Engenharia de Software.</p>
 
-<p>🐦 Atualmente estou focando meus estudos em Java </p>
+<p>🐦 Atualmente estou focando meus estudos em Java, C#, PHP </p>
 
 <p>🦉 Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
