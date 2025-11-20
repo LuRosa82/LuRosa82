@@ -1,13 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🐞;+Sou+Luciana+Rosa!🐞;" />
 </h1>
-<h3>Desenvolvedora Back-End </h3>
+<h3>Desenvolvedora FrontEnd e Back-End </h3>
 
 ![snake gif](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake.gif)
 
 <p>😺 Estudando Engenharia de Software.</p>
 
-<p>🐦 Atualmente estou focando meus estudos em Java, C#, PHP </p>
+<p>🐦 Atualmente estou focando meus estudos em Java, C#, HTML 5 , CSS e JavaScript </p>
 
 <p>🦉 Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
