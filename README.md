@@ -7,7 +7,7 @@
 
 <p>😺 Estudando Engenharia de Software.</p>
 
-<p>🐦 Atualmente estou focando meus estudos em Java, C#, HTML 5 , CSS e JavaScript </p>
+<p>🐦 Atualmente estou focando meus estudos em Java, Python, C#, HTML 5 , CSS e JavaScript </p>
 
 <p>🦉 Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
