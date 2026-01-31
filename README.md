@@ -10,7 +10,13 @@
 
 <!-- Snake -->
 
-![Snake dark raw](https://raw.githubusercontent.com/LuRosa82/LuRosa82/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Minha contribuição (tema dark)
+
+<div align="center">
+
+![Snake dark](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -23,33 +29,4 @@
 ---
 
 ## 🌌 Tecnologias que uso
-
-<div align="center">
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-</div>
-
----
-
-
----
-
-## 🌐 Contato
-
-<div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-rosa-49527658/)
-[![Instagram](https://img.shields.io/badge/Instagram-BB2A63?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucianacmr/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511930348047)
-
-</div>
-
----
-
-### ⭐ Obrigada por visitar meu perfil!  
+``
