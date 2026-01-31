@@ -18,6 +18,8 @@
 ## 🐍 Minha contribuição 
 
 
+---
+
 ## 🌌 Tecnologias que uso
 
 <div align="center" style="display: inline_block"><br>
