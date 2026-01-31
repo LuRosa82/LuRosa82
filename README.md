@@ -17,26 +17,6 @@
 
 ## 🐍 Minha contribuição 
 
-<div align="center">
-
-![Snake dark](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake-dark.svg)
-
-<!-- Se preferir evitar cache, use o link raw:
-<img src="https://raw.githubusercontent.com/LuRosa82/LuRosa82/output/github-contribution-grid-snake-dark.svg" alt="Snake dark" />
--->
-
-</div>
-
-<!-- Linguagens mais usadas -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRosa82&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
-  height="150"
-  alt="Top Languages"
-/>
-
-</div>
-
----
 
 ## 🌌 Tecnologias que uso
 
