@@ -15,7 +15,7 @@
 
 ---
 
-## 🐍 Minha contribuição (tema dark)
+## 🐍 Minha contribuição 
 
 <div align="center">
 
