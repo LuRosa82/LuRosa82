@@ -1,0 +1,42 @@
+name: Generate Snake
+
+on:
+  # Gera diariamente às 23:59 (horário UTC). Ajuste se quiser.
+  schedule:
+    - cron: "59 23 * * *"
+  # Permite rodar manualmente
+  workflow_dispatch:
+  # Opcional: roda quando há push na main (não é necessário para gerar diariamente)
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # necessário para publicar na branch 'output'
+
+    steps:
+      - name: Checar repositório
+        uses: actions/checkout@v4
+
+      # Gera as versões SVG (light/dark) e GIF
+      - name: Gerar Snake (SVG e GIF)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: LuRosa82
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+
+      # Publica os arquivos na branch 'output'
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
