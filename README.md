@@ -10,7 +10,7 @@
 
 <!-- Snake -->
 
-![snake gif](https://github.com/LuRosa82/LuRosa82/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake dark raw](https://raw.githubusercontent.com/LuRosa82/LuRosa82/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -37,15 +37,6 @@
 
 ---
 
-## 📊 Estatísticas (Dark Mode)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuRosa82&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRosa82&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
