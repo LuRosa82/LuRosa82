@@ -27,19 +27,6 @@
 
 </div>
 
----
-
-## 📊 Estatísticas (Dark Mode)
-
-<div align="center">
-
-<!-- Estatísticas gerais -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=LuRosa82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="150"
-  alt="GitHub Stats"
-/>
-
 <!-- Linguagens mais usadas -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRosa82&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
